@@ -1,0 +1,2 @@
+carandache-store: {cpus: 2, host_public: 192.168.56.17, memory: 2048, name: ubuntu/precise64,
+  provider: virtualbox}
